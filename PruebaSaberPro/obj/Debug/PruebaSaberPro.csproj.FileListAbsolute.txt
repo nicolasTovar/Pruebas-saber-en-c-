@@ -1,0 +1,192 @@
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe.config
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.pdb
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csprojAssemblyReference.cache
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmRegistro.resources
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmInicioSesion.resources
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.Properties.Resources.resources
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.GenerateResource.cache
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.CoreCompileInputs.cache
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.exe
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.pdb
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaUno.resources
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaCuatro.resources
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaCinco.resources
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDos.resources
+C:\Users\100_Jornada1\Documents\Visual Studio 2017\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaTres.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csprojAssemblyReference.cache
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.PreguntaCuatro.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaCinco.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDiez.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDos.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaNueve.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaOcho.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSeis.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSiete.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaTres.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaUno.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmRegistro.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmInicioSesion.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.Properties.Resources.resources
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.GenerateResource.cache
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.CoreCompileInputs.cache
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.exe
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.pdb
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe.config
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.pdb
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe.config
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.pdb
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csprojAssemblyReference.cache
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.PreguntaCuatro.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaCinco.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDiez.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDos.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaNueve.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaOcho.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSeis.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSiete.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaTres.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaUno.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmRegistro.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmInicioSesion.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.Properties.Resources.resources
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.GenerateResource.cache
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.exe
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.pdb
+C:\Users\Juan\Documents\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmResultadoP.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe.config
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.pdb
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csprojAssemblyReference.cache
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.PreguntaCuatro.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaCinco.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDiez.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDos.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaNueve.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaOcho.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSeis.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSiete.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaTres.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaUno.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmRegistro.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmInicioSesion.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.Properties.Resources.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmResultadoP.resources
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.GenerateResource.cache
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.CoreCompileInputs.cache
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.exe
+C:\Users\yessica\Music\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.pdb
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe.config
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.pdb
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csprojAssemblyReference.cache
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.PreguntaCuatro.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaCinco.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDiez.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDos.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaNueve.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaOcho.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSeis.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSiete.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaTres.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaUno.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmRegistro.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmInicioSesion.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.Properties.Resources.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmResultadoP.resources
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.GenerateResource.cache
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.exe
+C:\Users\Juan\Downloads\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.pdb
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe.config
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.pdb
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csprojAssemblyReference.cache
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.PreguntaCuatro.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaCinco.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDiez.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDos.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaNueve.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaOcho.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSeis.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSiete.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaTres.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaUno.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmRegistro.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmInicioSesion.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.Properties.Resources.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmResultadoP.resources
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.GenerateResource.cache
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.CoreCompileInputs.cache
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.exe
+C:\Users\100_Jornada1\Videos\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.pdb
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe.config
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.pdb
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csprojAssemblyReference.cache
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.PreguntaCuatro.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaCinco.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDiez.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDos.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaNueve.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaOcho.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSeis.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSiete.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaTres.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaUno.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmRegistro.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmInicioSesion.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.Properties.Resources.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmResultadoP.resources
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.GenerateResource.cache
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.CoreCompileInputs.cache
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.exe
+C:\Users\yessica\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.pdb
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe.config
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.pdb
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csprojAssemblyReference.cache
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.PreguntaCuatro.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaCinco.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDiez.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDos.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaNueve.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaOcho.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSeis.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSiete.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaTres.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaUno.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmRegistro.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmInicioSesion.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.Properties.Resources.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmResultadoP.resources
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.GenerateResource.cache
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.CoreCompileInputs.cache
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.exe
+C:\Users\100_Jornada1\3D Objects\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.pdb
+C:\Users\yessica\Desktop\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmResultadoP.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe.config
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.exe
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\bin\Debug\PruebaSaberPro.pdb
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csprojAssemblyReference.cache
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.PreguntaCuatro.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaCinco.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDiez.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaDos.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaNueve.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaOcho.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSeis.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaSiete.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaTres.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmPreguntaUno.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmRegistro.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmInicioSesion.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.Properties.Resources.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.FrmResultadoP.resources
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.GenerateResource.cache
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.exe
+C:\Users\Juan\Pictures\PruebaSaberPro\PruebaSaberPro\obj\Debug\PruebaSaberPro.pdb
